@@ -10,6 +10,7 @@ A result-oriented software developer with over 3 years of experience working wit
 *   ✉️  You can contact me at [martin@martinoputa.com](mailto:martin@martinoputa.com)
 *   🧠  I'm learning Java, Tailwind, GraphQL
 *   🤝  I'm open to collaborating on Interesting projects based on Javascript environment
+*   ⚡  I'm currently developing a flight booking app (See pin repo)
 *   ⚡  Clean code is a passion for me
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
