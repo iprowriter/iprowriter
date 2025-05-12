@@ -6,7 +6,7 @@ Fullstack software developer
 
 A result-oriented software developer with over 3 years of experience working with modern technologies and helping businesses in Germany grow.
 
-*   🌍  I'm based in Leipzig
+*   🌍  I'm based in Berlin, Germany
 *   ✉️  You can contact me at [martin@martinoputa.com](mailto:martin@martinoputa.com)
 *   🧠  I'm learning Java, Tailwind, GraphQL
 *   🤝  I'm open to collaborating on Interesting projects based on Javascript environment
