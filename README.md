@@ -10,7 +10,8 @@ A result-oriented software developer with over 3 years of experience working wit
 *   ✉️  You can contact me at [martin@martinoputa.com](mailto:martin@martinoputa.com)
 *   🧠  I'm proficient in React, Typescript, NodeJS, REST API, and PostgreSQL
 *   🤝  I'm open to collaborating on Interesting projects based on Javascript environment
-*   ⚡  I'm currently working on a private project that I'm very excited about with potential to contribute to German market.
+*   🤝  I can architect a product from end-to-end. If you are looking to collaborate on your startup, upgrade your scale-up or just want someone motivated, reach out to me!
+*   ⚡  I'm currently working on a private project that I'm very excited about with potential to contribute to German market. I'm using React-Native for this project. Watchout this space
 *   ⚡  Clean code is a passion for me
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
