@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin Oputa
 =============================
 
-Fullstack software developer
+Software Engineer (Full Stack)
 ----------------------------
 
 A result-oriented software developer with over 3 years of experience working with modern technologies and helping businesses in Germany grow.
