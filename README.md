@@ -4,15 +4,35 @@ Hi 👋 My name is Martin Oputa
 AI-Native Full-Stack Product Engineer · Berlin
 ----------------------------
 
-A result-oriented software developer with over 5 years of experience working with modern technologies and helping businesses in Germany grow.
+I build full-stack AI products end to end and run them in production.
 
-*   🌍  I'm based in Berlin, Germany
-*   ✉️  You can contact me at [martin@martinoputa.com](mailto:martin@martinoputa.com)
-*   🧠  I'm proficient in React, Typescript, NodeJS, REST API, Python, FastAPI, PostgreSQL, LangGraph
-*   🤝  I'm open to collaborating on Interesting projects based on Javascript (TypeScript, React, NodeJS) environment
-*   🤝  I can architect a product from end-to-end. If you are looking to collaborate on your startup, upgrade your scale-up or just want someone motivated, reach out to me!
-*   ⚡  I'm currently working on a private project that I'm very excited about with potential to contribute to German market. I'm using React-Native for this project. Watchout this space
-*   ⚡  Clean code is a passion for me
+Right now that's **[PracticeDepth](https://practicedepth.com)**: an adaptive AI technical interviewer I designed, built and operate on my own. It's been live since July 2026 and taking real payments since August.
+
+## 🚀 What I'm building
+
+- **PracticeDepth**: a LangGraph.js state machine that interviews like a senior engineer, with voice in and out (Whisper STT, Gemini TTS), code challenges, CV defense and a RAG-grounded support assistant. Now adding a B2B screening product for hiring teams.
+- **How I ship it**: tickets in Linear run as parallel background Claude Code agents on GitHub Actions. Each one opens a CI-checked draft PR (1,100+ tests). I review every change before it merges, and payment code is kept human-only by a CI guard.
+- **WohnIQ**: AI apartment search for Berlin's rental market, with pgvector semantic search and an explainable scam-risk score.
+
+## 🧠 What I bring
+
+- **Product ownership end to end**: scoping, UI, APIs, data, payments, deployment, monitoring
+- **AI in production**: agent state machines, speech in and out, cost-aware model choices, grounded assistants, MCP
+- **Real-time and event-driven systems**: WebRTC, WebSockets, Kafka, MQTT, from 3+ years on EU emergency-response projects
+- **Shipping safely**: feature flags, CI gates, written architecture decisions (ADRs), self-hosted ops with Sentry and Grafana
+
+## 🛠️ Stack
+
+**Frontend:** React · TypeScript · Next.js · Tailwind
+**Backend:** Node.js · NestJS · Python · FastAPI · PostgreSQL · Prisma · Redis
+**AI:** Claude Code · LangGraph · Gemini · pgvector · MCP
+**Infra:** Docker · GitHub Actions · Coolify · Hetzner · Sentry · Linear
+
+## 📫 Get in touch
+
+Open to AI-native product engineering roles and interesting collaborations.
+
+✉️ [martin@martinoputa.com](mailto:martin@martinoputa.com) · 🌐 [martinoputa.com](https://martinoputa.com) · 💼 [LinkedIn](https://linkedin.com/in/martin-oputa)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
