@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin Oputa
 =============================
 
-Software Engineer (Full Stack & AI)
+AI-Native Full-Stack Product Engineer · Berlin
 ----------------------------
 
 A result-oriented software developer with over 5 years of experience working with modern technologies and helping businesses in Germany grow.
