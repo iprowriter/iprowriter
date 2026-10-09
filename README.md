@@ -23,10 +23,10 @@ Right now that's **[PracticeDepth](https://practicedepth.com)**: an adaptive AI 
 
 ## 🛠️ Stack
 
-**Frontend:** React · TypeScript · Next.js · Tailwind
-**Backend:** Node.js · NestJS · Python · FastAPI · PostgreSQL · Prisma · Redis
-**AI:** Claude Code · LangGraph · Gemini · pgvector · MCP
-**Infra:** Docker · GitHub Actions · Coolify · Hetzner · Sentry · Linear
+- **Frontend:** React · TypeScript · Next.js · Tailwind
+- **Backend:** Node.js · NestJS · Python · FastAPI · PostgreSQL · Prisma · Redis
+- **AI:** Claude Code · LangGraph · Gemini · pgvector · MCP
+- **Infra:** Docker · GitHub Actions · Coolify · Hetzner · Sentry · Linear
 
 ## 📫 Get in touch
 
